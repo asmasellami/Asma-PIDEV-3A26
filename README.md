@@ -87,7 +87,7 @@ Asma Sellami - asma.sellami@esprit.tn
 
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+
 
 ## 🙏 Remerciements
 Ce projet a été développé dans le cadre du cours PIDEV 3A **l'École supérieure privée d'ingénierie et de technologie**. Nous tenons à remercier nos professeurs et mentors pour leur précieux encadrement et leur soutien tout au long du développement.
