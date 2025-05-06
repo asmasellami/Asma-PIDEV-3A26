@@ -46,3 +46,19 @@ Worksphere is a comprehensive **Human Resources Management Application** develop
    php bin/console doctrine:database:create
    php bin/console doctrine:migrations:migrate
    php bin/console doctrine:fixtures:load
+
+
+## 📬 Contact
+Development Team:
+
+Yassine Bouras - yassine.bouras@esprit.tn
+
+Eya Kassous - eya.kassous@esprit.tn
+
+Houssem Hbeib - houssem.hbeib@esprit.tn
+
+Molka Gharbi - molka.gharbi@esprit.tn
+
+Jacem Jouili - jacem.jouili@esprit.tn
+
+Asma Sellami - asma.sellami@esprit.tn
