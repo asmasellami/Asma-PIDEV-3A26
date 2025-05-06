@@ -47,6 +47,8 @@ Worksphere is a comprehensive **Human Resources Management Application** develop
    php bin/console doctrine:migrations:migrate
    php bin/console doctrine:fixtures:load
 
+##📜 License
+This project is licensed under the MIT License - see the LICENSE file for details.
 
 ## 📬 Contact
 Development Team:
@@ -62,3 +64,13 @@ Molka Gharbi - molka.gharbi@esprit.tn
 Jacem Jouili - jacem.jouili@esprit.tn
 
 Asma Sellami - asma.sellami@esprit.tn
+
+##💻 Technologies Used
+Backend: Symfony 6
+
+Database: MySQL 8
+
+Frontend: JavaScript, HTML5, CSS3
+
+AI Integration: Python, TensorFlow, OpenCV
+
