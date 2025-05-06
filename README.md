@@ -47,24 +47,6 @@ Worksphere est une application complète de **gestion des ressources humaines** 
    php bin/console doctrine:migrations:migrate
    php bin/console doctrine:fixtures:load
 
-## 📜 Licence
-Ce projet est sous licence MIT – voir le fichier LICENSE pour plus de détails.
-
-## 📬 Contact
-Équipe de développement :
-
-Yassine Bouras - yassine.bouras@esprit.tn
-
-Eya Kassous - eya.kassous@esprit.tn
-
-Houssem Hbeib - houssem.hbeib@esprit.tn
-
-Molka Gharbi - molka.gharbi@esprit.tn
-
-Jacem Jouili - jacem.jouili@esprit.tn
-
-Asma Sellami - asma.sellami@esprit.tn
-
 ## 💻 Technologies utilisées
 
 ### Backend
@@ -88,6 +70,24 @@ Asma Sellami - asma.sellami@esprit.tn
 ### Outils
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
+
+## 📬 Contact
+Équipe de développement :
+
+Yassine Bouras - yassine.bouras@esprit.tn
+
+Eya Kassous - eya.kassous@esprit.tn
+
+Houssem Hbeib - houssem.hbeib@esprit.tn
+
+Molka Gharbi - molka.gharbi@esprit.tn
+
+Jacem Jouili - jacem.jouili@esprit.tn
+
+Asma Sellami - asma.sellami@esprit.tn
+
+## 📜 Licence
+Ce projet est sous licence MIT – voir le fichier LICENSE pour plus de détails.
 
 ## 🙏 Remerciements
 Ce projet a été développé dans le cadre du cours PIDEV 3A **l'École supérieure privée d'ingénierie et de technologie**. Nous tenons à remercier nos professeurs et mentors pour leur précieux encadrement et leur soutien tout au long du développement.
