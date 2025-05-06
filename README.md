@@ -32,16 +32,16 @@ Worksphere est une application complète de **gestion des ressources humaines** 
 
 ## 🛠️ Installation
 
-1. **Clone the repository**
+1. **Cloner le dépôt**
    ```bash
    git clone https://github.com/yourusername/worksphere.git
    cd worksphere
-2. **Configure environment**
-   Edit .env file :
+2. **Configurer l'environnement**
+   Modifier le fichier .env :
    ```bash
    DATABASE_URL="mysql://db_user:db_password@127.0.0.1:3306/db_name"
   
-3. **Set up database**
+3. **Configurer la base de données**
    ```bash
    php bin/console doctrine:database:create
    php bin/console doctrine:migrations:migrate
