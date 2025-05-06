@@ -37,16 +37,11 @@ Worksphere is a comprehensive **Human Resources Management Application** develop
    git clone https://github.com/yourusername/worksphere.git
    cd worksphere
 2. **Configure environment**
+   Edit .env file :
    ```bash
   DATABASE_URL="mysql://db_user:db_password@127.0.0.1:3306/db_name"
 3. **Set up database**
    ```bash
    php bin/console doctrine:database:create
-  ```bash
    php bin/console doctrine:migrations:migrate
-  ```bash
    php bin/console doctrine:fixtures:load
-
-4. **Launch development server**
-   ```bash
-   symfony serve
