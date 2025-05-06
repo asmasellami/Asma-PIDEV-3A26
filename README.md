@@ -1,6 +1,6 @@
 # Worksphere 🌐
 
-Worksphere is a comprehensive **Human Resources Management Application** developed using Symfony and MySQL. Designed to streamline HR administrative tasks, it offers a suite of features for efficient employee management, event organization, training coordination, and project oversight. Developed as part of the PIDEV 3A course at Esprit School of Engineering, this project emphasizes advanced web development and AI integration.
+Worksphere est une application complète de **gestion des ressources humaines** développée avec Symfony et MySQL. Conçue pour simplifier les tâches administratives RH, elle offre une suite d'outils pour gérer efficacement les employés, organiser des événements, coordonner des formations et superviser des projets. Ce projet a été réalisé dans le cadre du cours PIDEV 3A à **l'École supérieure privée d'ingénierie et de technologie**, mettant l'accent sur le développement web avancé et l'intelligence artificielle.
 
 ---
 
