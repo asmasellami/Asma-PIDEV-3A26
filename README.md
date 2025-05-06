@@ -38,11 +38,14 @@ Worksphere is a comprehensive **Human Resources Management Application** develop
    cd worksphere
 2. **Configure environment**
    Edit the .env file to configure your database settings
+     ```bash
    For example:DATABASE_URL="mysql://db_user:db_password@127.0.0.1:3306/db_name"
 3. **Set up database**
+     ```bash
 php bin/console doctrine:database:create
 php bin/console doctrine:migrations:migrate
 php bin/console doctrine:fixtures:load
 
 4. **Launch development server**
+     ```bash
 symfony serve
