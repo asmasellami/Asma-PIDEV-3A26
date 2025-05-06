@@ -12,7 +12,7 @@ Worksphere est une application complète de **gestion des ressources humaines** 
 - **📅 Gestion des événements** : Organisation et suivi des événements d'entreprise  
 - **🎓 Gestion des formations** : Création et gestion des sessions de formation  
 - **📊 Gestion des projets** : Création de projets, affectation d'équipes et suivi de progression des taches 
-- **🤝 Gestion des équipes** : Formation et administration des équipes  
+- **🤝 Gestion des équipes** : Création des équipes 
 - **📝 Système de réservation** : Réservation de places pour les formations  
 - **📢 Système de réclamation** : Soumission et résolution des plaintes  
 - **💼 Gestion des offres d'emploi** : Publication et gestion des opportunités  
