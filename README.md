@@ -4,29 +4,29 @@ Worksphere est une application complète de **gestion des ressources humaines** 
 
 ---
 
-## ✨ Features
+## ✨ Fonctionnalités  
 
-### Core Functionalities
-- **🔐 User Authentication**: Secure login, registration, and profile management
-- **👥 Employee Management**: Full CRUD operations for employee records
-- **📅 Event Management**: Organize and track company events
-- **🎓 Training Management**: Create and manage training sessions
-- **📊 Project Management**: Project creation, team assignment, and progress tracking
-- **🤝 Team Management**: Team formation and administration
-- **📝 Reservation System**: Training session spot reservations
-- **📢 Reclamation System**: Complaint submission and resolution
-- **💼 Job Offer Management**: Posting and managing employment opportunities
-- **🗣️ Interview Management**: Scheduling and conducting interviews
-- **💬 Feedback System**: Collect and analyze interview feedback
+### Fonctionnalités principales  
+- **🔐 Authentification sécurisée** : Connexion, inscription et gestion de profil  
+- **👥 Gestion des employés** : Opérations CRUD complètes  
+- **📅 Gestion des événements** : Organisation et suivi des événements d'entreprise  
+- **🎓 Gestion des formations** : Création et gestion des sessions de formation  
+- **📊 Gestion des projets** : Création de projets, affectation d'équipes et suivi de progression des taches 
+- **🤝 Gestion des équipes** : Formation et administration des équipes  
+- **📝 Système de réservation** : Réservation de places pour les formations  
+- **📢 Système de réclamation** : Soumission et résolution des plaintes  
+- **💼 Gestion des offres d'emploi** : Publication et gestion des opportunités  
+- **🗣️ Gestion des entretiens** : Planification et conduite des entretiens  
+- **💬 Système de feedback** : Collecte et analyse des retours d'entretiens  
 
-### Advanced Features
-- **👁️ Facial Recognition**: AI-powered secure authentication
-- **🔑 Google OAuth**: Simplified login via Google accounts
-- **🚫 User Banning**: Comprehensive user management tools
-- **🤖 AI Sponsor Suggestions**: ML-based event sponsor recommendations
-- **☁️ Cloud Storage**: Secure project data storage
-- **💻 Virtual Meetings**: Integrated online training sessions
-- **📄 AI CV Filtering**: Intelligent application screening
+### Fonctionnalités avancées  
+- **👁️ Reconnaissance faciale** : Authentification sécurisée par IA  
+- **🔑 Connexion via Google (OAuth)** : Simplification de la connexion  
+- **🚫 Bannissement des utilisateurs** : Outils de modération avancés  
+- **🤖 Suggestions de sponsors par IA** : Recommandations intelligentes pour événements  
+- **☁️ Stockage cloud** : Sauvegarde sécurisée des données  
+- **💻 Réunions virtuelles** : Sessions de formation en ligne intégrées  
+- **📄 Filtrage intelligent des CV** : Analyse automatisée des candidatures 
 
 ---
 
@@ -47,11 +47,11 @@ Worksphere est une application complète de **gestion des ressources humaines** 
    php bin/console doctrine:migrations:migrate
    php bin/console doctrine:fixtures:load
 
-## 📜 License
-This project is licensed under the MIT License - see the LICENSE file for details.
+## 📜 Licence
+Ce projet est sous licence MIT – voir le fichier LICENSE pour plus de détails.
 
 ## 📬 Contact
-Development Team:
+Équipe de développement :
 
 Yassine Bouras - yassine.bouras@esprit.tn
 
@@ -65,15 +65,15 @@ Jacem Jouili - jacem.jouili@esprit.tn
 
 Asma Sellami - asma.sellami@esprit.tn
 
-## 💻 Technologies Used
+## 💻 Technologies utilisées
 Backend: Symfony 6.4
 
 Database: MySQL 8
 
 Frontend: JavaScript, HTML5, CSS3
 
-AI Integration: Python, TensorFlow, OpenCV
+Intégration IA: Python, TensorFlow, OpenCV
 
-## 🙏 Acknowledgements
-This project was developed as part of the PIDEV 3A course at **Esprit School of Engineering**. We would like to express our gratitude to our professors and mentors for their invaluable guidance and support throughout the development process.
+## 🙏 Remerciements
+Ce projet a été développé dans le cadre du cours PIDEV 3A **l'École supérieure privée d'ingénierie et de technologie**. Nous tenons à remercier nos professeurs et mentors pour leur précieux encadrement et leur soutien tout au long du développement.
 
