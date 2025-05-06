@@ -75,5 +75,5 @@ Frontend: JavaScript, HTML5, CSS3
 AI Integration: Python, TensorFlow, OpenCV
 
 ## 🙏 Acknowledgements
-This project was developed as part of the PIDEV 3A course at Esprit School of Engineering. We would like to express our gratitude to our professors and mentors for their invaluable guidance and support throughout the development process.
+This project was developed as part of the PIDEV 3A course at **Esprit School of Engineering**. We would like to express our gratitude to our professors and mentors for their invaluable guidance and support throughout the development process.
 
