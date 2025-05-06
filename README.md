@@ -66,7 +66,7 @@ Jacem Jouili - jacem.jouili@esprit.tn
 Asma Sellami - asma.sellami@esprit.tn
 
 ## 💻 Technologies Used
-Backend: Symfony 6
+Backend: Symfony 6.4
 
 Database: MySQL 8
 
